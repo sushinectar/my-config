@@ -1,0 +1,62 @@
+{
+  "workbench.startupEditor": "newUntitledFile",
+  "editor.fontSize": 12,
+  "editor.lineHeight": 1.7,
+  "editor.rulers": [80, 120],
+  "editor.renderLineHighlight": "gutter",
+  "workbench.editor.labelFormat": "short",
+  "explorer.compactFolders": false,
+  "terminal.integrated.fontSize": 12,
+  "terminal.integrated.fontFamily": "JetBrains Mono",
+  "breadcrumbs.enabled": false,
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.fontLigatures": true,
+  "editor.tabSize": 2,
+  "workbench.iconTheme": "symbols",
+  "window.commandCenter": true,
+  "apc.activityBar": {
+    "position": "bottom",
+    "hideSettings": true,
+    "size": 48,
+    "itemMargin": 8,
+    "itemSize": 32
+  },
+  "editor.hideCursorInOverviewRuler": true,
+  "editor.minimap.enabled": false,
+  "apc.electron": {
+    "titleBarStyle": "hiddenInset",
+    "trafficLightPosition": {
+      "x": 11,
+      "y": 10
+    },
+    "frame": false
+  },
+  "apc.header": {
+    "height": 36
+  },
+  "apc.listRow": {
+    "height": 24
+  },
+  "apc.stylesheet": {
+    ".title-label > h2": "display: none",
+    ".editor-actions": "display: none",
+    ".nosidebar .inline-tabs-placeholder": "width: 75px",
+    ".pane-header": "padding: 0 8px",
+    ".pane-body": "padding: 8px",
+    ".split-view-view:first-child .pane-header": "display: none !important;",
+    ".monaco-list-row": "border-radius: 4px;",
+    ".monaco-workbench .monaco-list:not(.element-focused):focus:before": "display: none;"
+  },
+  "editor.scrollbar.vertical": "hidden",
+  "explorer.sortOrder": "foldersNestsFiles",
+  "workbench.colorTheme": "GitHub Dark Dimmed",
+  "workbench.statusBar.visible": false,
+  "symbols.hidesExplorerArrows": false,
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.editor.empty.hint": "hidden",
+}
